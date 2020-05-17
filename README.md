@@ -28,7 +28,7 @@ $ expo login
 ? Username/Email Address: xxx
 ? Password: [hidden]
 
-Success. You are now logged in as kawk.
+Success. You are now logged in as xxx.
 ```
 
 - Start to Expo
