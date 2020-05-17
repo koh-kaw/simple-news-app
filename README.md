@@ -2,6 +2,8 @@
 
 A simple news app developed with React Native
 
+![demo](https://raw.githubusercontent.com/wiki/kaw-k/news-app-owl/images/owl.gif)
+
 # Env
 
 - Node.js: v12.10.0
